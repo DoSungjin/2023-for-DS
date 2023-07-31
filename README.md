@@ -1,60 +1,24 @@
-This project is for code.
+강의 자료 깃허브 링크 - [LINK](https://github.com/DoSungjin/2023-for-DS)
 
-When this project ends, i can finish this code by myself in short time.
-## 🚀 Features
-It is for Apple type classification.
-You can check the picture of 4 types of apples.
-Make the Model for classification.
+# 과외 일정
 
-* I use this repo for exercise for coding skill.
-### Code Quality
+---
 
-- black
-- isort
-- flake8
-- editorconfig
+- 주 2회 - 1회 당 2시
+- 요일 - 화요일, (목요일)
+- 숙제 - 매일 Github 통해서 제공
 
-### Github Actions
+# 커리큘럼
 
-- [release-drafter](https://github.com/release-drafter/release-drafter)
-- Check code quality when PR (`black`, `isort`, `flake8`)
+---
 
-### Other
-
-- Commit template
-- Issue, PR Template
-- Add dummy test code
-- Auto-close stale issue
-
-## 📄 Guideline
-
-### 1. Setup
-
-- precommit, style, pytest, gitmessage, requirements
-
-```bash
-make setup
-```
-
-### 2. Writes your own code! ✏️
-
-Don't forget to update the `README`!
-
-## ⬆️ Contributing
-
-### 1. Test
-
-```bash
-make test
-```
-
-### 2. Execute code formatting & Check lint
-
-```bash
-make style
-```
-
-1/10 updated
-1/11 코드 필사
-1/13 코드 필사
-2/19 코드 필사
+1. 머신러닝 전반에 관한 이야기와 코랩 세팅 및 실행
+2. 실전 Python 프로그래밍 - 1
+3. 실전 Python 프로그래밍 - 2
+4. Python 머신러닝 튜토리얼 - 1
+5. Python 머신러닝 튜토리얼 - 2
+6. Python 딥러닝 튜토리얼 - 1
+7. Python 딥러닝 튜토리얼 - 2
+8. Fundamentals of Deeplearning & Essential Mathematics
+9. Convolutional Neural Network & Image Classification
+10. Image Task for Segmetation
